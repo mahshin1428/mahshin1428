@@ -13,7 +13,7 @@
 - 🧠 I love solving problems with **DSA, AI, and software design**
 - 📬 Contact me: **bsse1428@iit.du.ac.bd.com**
 - 🌐 Portfolio: https://mahshinislam.com
-- 💼 Currently working on: *@Leads*
+- 💼 Currently working on: *LEADS Corporation Limited*
 
 ---
 
@@ -35,32 +35,33 @@
 ---
 
 ## 🏆 Badges  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=mahshin1428)
+![GitHub followers](https://img.shields.io/github/followers/mahshin1428?style=social)
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahshin1428&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahshin1428&layout=compact&theme=react" height="165" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react">
+  <img src="https://streak-stats.demolab.com/?user=mahshin1428&theme=react">
 </p>
 
 ---
 
 ## 🚀 My Contributions Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahshin1428&theme=react-dark)
 
 ---
 
 ## 🏅 Achievements  
--- A
+-- Devops on AWS
+-- Google Cybersecurity Certification
 
 Thanks for visiting my profile! 😊
