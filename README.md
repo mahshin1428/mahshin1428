@@ -16,7 +16,7 @@
 
 ## About me
 
-- 🎓 B.Sc. in Software Engineering at the Institute of Information Technology, University of Dhaka (CGPA 3.67/4.00)
+- 🎓 B.Sc. in Software Engineering at the Institute of Information Technology, University of Dhaka
 - 🔬 Research Assistant at the University of Alabama (remote), advised by Dr. Rayhanur Rahman
 - 🛡️ Interested in AI red teaming, prompt injection, adversarial inputs, and robustness of ML models
 - 💼 Part-time Junior Software Engineer at [Leads Corporation](https://leads.com.bd/), building ERP modules with Spring Boot, Angular, and PL/SQL
